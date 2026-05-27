@@ -1,4 +1,4 @@
-# Solomonoyerinde # Hi there, I'm Solomon Oyerinde 
+ Hi there, I'm Solomon Oyerinde 
 
 I'm a fresh graduate and aspiring Data Scientist based in Nigeria 🇳🇬, with a strong foundation in Python and Java/C++. I love turning raw data into meaningful insights and building tools that solve real problems.
 
