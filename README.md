@@ -1,20 +1,20 @@
-# Solomonoyerinde # Hi there, I'm Solomon Oyerinde 👋
+# Solomonoyerinde # Hi there, I'm Solomon Oyerinde 
 
 I'm a fresh graduate and aspiring Data Scientist based in Nigeria 🇳🇬, with a strong foundation in Python and Java/C++. I love turning raw data into meaningful insights and building tools that solve real problems.
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 Fresh graduate with a background in Computer Science
-- 🔍 Currently exploring **Data Science**, machine learning, and analytics
-- 🛠️ Building projects to sharpen my skills and grow my portfolio
-- 🌍 Based in Nigeria, open to remote and on-site opportunities
-- 💡 Always learning — currently diving deeper into data visualization and ML libraries
+-  Fresh graduate with a background in Computer Science
+-  Currently exploring **Data Science**, machine learning, and analytics
+-  Building projects to sharpen my skills and grow my portfolio
+-  Based in Nigeria, open to remote and on-site opportunities
+-  Always learning — currently diving deeper into data visualization and ML libraries
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 **Languages:**
 
@@ -31,7 +31,7 @@ I'm a fresh graduate and aspiring Data Scientist based in Nigeria 🇳🇬, with
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -40,18 +40,18 @@ I'm a fresh graduate and aspiring Data Scientist based in Nigeria 🇳🇬, with
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Solomon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm actively looking for opportunities in **Data Science, Software Development, and related fields.**
 
-- 📧 Reach me at: **[your email here]**
-- 💼 Open to: Full-time roles, internships, freelance, and collaborations
+- Reach me at: **[your email here]**
+- Open to: Full-time roles, internships, freelance, and collaborations
 
 ---
 
